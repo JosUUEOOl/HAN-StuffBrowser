@@ -10,6 +10,11 @@
 
 ------------
 
+### GAMES WILL NOT WORK OUT OF THE BOX, YOU NEED THE RESIGNED LICENCE FILE (.RIF) FOR EVERY (PSN) GAME YOU INSTALL FROM THIS MOD
+### [Check HAN Usage official page for more info](http://ps3xploit.com/help/han.html)
+
+------------
+
 ### Usage
 
 1. [Download Installer](https://github.com/The-Marker/HAN-StuffBrowser/raw/master/HAN_StuffBrowser_Installer.pkg "Download Installer")
