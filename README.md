@@ -31,13 +31,19 @@
 2. Go to **"★ HAN StuffBrowser > Settings > Download DB Resources"**, proceed to install the update
 3. After installation, Reboot
 
+### Language
+
+[Spanish Patch for v1.1 (provisional)](https://github.com/The-Marker/HAN-StuffBrowser/blob/master/HAN_StuffBrowser_1.1_Spanish_Patch_TMP.pkg)
+
+> Install language patch after installing/updating
+
 ------------
 
 ### History
 + v1.0 - Initial Release | *05/09/18*
   * Added Installer
 
-+ v1.1 - Added PSN Stuff DB | *05/14/18*
++ v1.1 - Added Stuff DB | *05/14/18*
   * PS1: US, EU, JP, HK
   * PS2: US, EU, JP, ALL
   * PS3: US, EU, JP, HK
