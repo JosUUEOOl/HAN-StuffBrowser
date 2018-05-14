@@ -37,7 +37,7 @@
 + v1.0 - Initial Release | *05/09/18*
   * Added Installer
 
-+ v1.1 - Added Stuff DB | *05/14/18*
++ v1.1 - Added PSN Stuff DB | *05/14/18*
   * PS1: US, EU, JP, HK
   * PS2: US, EU, JP, ALL
   * PS3: US, EU, JP, HK
